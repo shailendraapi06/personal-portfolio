@@ -6,7 +6,7 @@ This website represents my professional profile, skills, projects, certification
 ---
 
 ## 🚀 Live Preview
-🔗 https://your-portfolio-name.netlify.app
+🔗 https://shailendraapi06.netlify.app
 
 ---
 
